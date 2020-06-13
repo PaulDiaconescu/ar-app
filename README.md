@@ -8,6 +8,6 @@ The basic concept of the app is to help a user identify a certain tourist attrac
 The AR Location app is utilizing the [ARCore](https://developers.google.com/ar) SDK from Google and the [AR-Core Location](https://github.com/appoly/ARCore-Location) library for handling real-world coordinates.
 
 ## Software and hardware requirements
-The code ius written entirely in Java for Android. Requirements to set up the project are as following:
+The code is written entirely in Java for Android. Requirements to set up the project are as following:
 * IDE Android studio 3.0
 * Mobile phone - Currently works on Samsung S8, Google Pixel, Pixel XL, Pixel 2, Pixel 2 XL (as of June 2020)
